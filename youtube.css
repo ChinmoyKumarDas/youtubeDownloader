@@ -1,7 +1,4 @@
-* {
-    margin:0;
-    padding: 0;
-}
+
 }
 
 body {
@@ -15,12 +12,13 @@ a {
 }
 
 .allprojects {
-    margin-top:20px
+    
     display: flex;
     justify-content: center;
 }
 
 .ytdownloader {
+    margin-top:20px
     background-color: #260EC7;
     padding: 20px;
     border-radius: 33px;
