@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    
+}
+
+.allprojects {
+    display: flex;
+    justify-content: center;
+}
+
+.ytdownloader {
+    background-color: #5343BC;
+    padding: 20px;
+    border-radius: 33px;
+    color: #fff;
+}
