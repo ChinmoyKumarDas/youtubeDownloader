@@ -1,3 +1,22 @@
+* {
+    margin:0;
+    padding: 0;
+}
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* background-color: #BCB7B7; */
+}
+.bg {
+    
+    clip-path: polygon(0 0, 100% 0, 100% 73%, 0 100%);
+    position: absolute;
+    background-color: #322397;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
 a {
     text-decoration: none;
     
@@ -9,7 +28,7 @@ a {
 }
 
 .ytdownloader {
-    background-color: #5343BC;
+    background-color: #260EC7;
     padding: 20px;
     border-radius: 33px;
     color: #fff;
